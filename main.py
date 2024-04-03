@@ -60,12 +60,13 @@ async def main(url):
 					total_data_products = await asyncio.gather(
 						*(extract_product_info(data_product_html) for data_product_html in total_data_products_html))
 					data[tip_cat].append(total_data_products)
-			async with aiofiles.open("data.json", "a+") as f:
-				await f.write(json.dumps(data))
+			async with aiofiles.open("data.json", "a+", encoding="utf-8") as f:
+				await f.write(json.dumps(data, indent=4, ensure_ascii=False))
+			break
 
 
 if __name__ == '__main__':
 	start = time.time()
 	asyncio.run(main(URL))
 	end = time.time()
-	print(f'Время: {round((end - start) / 60, 2)} мин.')
+	print(f'Время: {round((end - start) / 60)} мин.')

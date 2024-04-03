@@ -1,0 +1,1064 @@
+{
+    "Говядина": [
+        [
+            {
+                "article": "521168",
+                "title": "Ростбиф говяжий Мираторг охлажденный, ~900г",
+                "promo_price": null,
+                "brand": "МИРАТОРГ",
+                "old_price": null
+            },
+            {
+                "article": "89222",
+                "title": "Голяшка Мираторг говяжья без кости охлажденная",
+                "promo_price": null,
+                "brand": "МИРАТОРГ",
+                "old_price": null
+            },
+            {
+                "article": "518059",
+                "title": "Вырезка Мираторг говяжья из лопатки охлажденная",
+                "promo_price": null,
+                "brand": "МИРАТОРГ",
+                "old_price": null
+            },
+            {
+                "article": "575411",
+                "title": "Мякоть шеи говяжья Заречное охлажденная, ~1кг",
+                "promo_price": null,
+                "brand": "ЗАРЕЧНОЕ",
+                "old_price": null
+            },
+            {
+                "article": "235156",
+                "title": "Мякоть говядины Мясо есть! Халяль охлажденная, 600г",
+                "promo_price": null,
+                "brand": "МЯСО ЕСТЬ!",
+                "old_price": null
+            },
+            {
+                "article": "214309",
+                "title": "Рибай Мираторг Matured зачищенный охлажденный, ~5.8кг",
+                "promo_price": null,
+                "brand": "МИРАТОРГ",
+                "old_price": null
+            },
+            {
+                "article": "510350",
+                "title": "Передняя часть лопатки Заречное говяжья охлажденная, ~680г",
+                "promo_price": null,
+                "brand": "ЗАРЕЧНОЕ",
+                "old_price": null
+            },
+            {
+                "article": "530547",
+                "title": "Вырезка говяжья Мираторг Prime охлажденная, ~2.5кг",
+                "promo_price": null,
+                "brand": "МИРАТОРГ",
+                "old_price": null
+            },
+            {
+                "article": "521157",
+                "title": "Мускул глазной Мираторг говяжий",
+                "promo_price": null,
+                "brand": "МИРАТОРГ",
+                "old_price": null
+            },
+            {
+                "article": "662852",
+                "title": "Стейк Мираторг Минутка говяжий охлажденный, 190г",
+                "promo_price": null,
+                "brand": "МИРАТОРГ",
+                "old_price": null
+            },
+            {
+                "article": "662246",
+                "title": "Стейк Мираторг Рибай скин из говядины охлажденный, 500г",
+                "promo_price": null,
+                "brand": "МИРАТОРГ",
+                "old_price": null
+            },
+            {
+                "article": "575398",
+                "title": "Мякоть лопатки говяжья Заречное охлажденная, ~950г",
+                "promo_price": null,
+                "brand": "ЗАРЕЧНОЕ",
+                "old_price": null
+            },
+            {
+                "article": "236534",
+                "title": "Голяшка говяжья Мираторг фермерский бычок без кости охлажденная, ~2.3кг",
+                "promo_price": null,
+                "brand": "МИРАТОРГ",
+                "old_price": null
+            },
+            {
+                "article": "135846",
+                "title": "Стейк Мираторг Matured Beef Стриплойн охлажденный, 250г",
+                "promo_price": null,
+                "brand": "МИРАТОРГ",
+                "old_price": null
+            },
+            {
+                "article": "637421",
+                "title": "Стейк Мираторг Чак Ролл говяжий охлажденный, 570г",
+                "promo_price": null,
+                "brand": "МИРАТОРГ",
+                "old_price": null
+            },
+            {
+                "article": "658994",
+                "title": "Стейк Мираторг Рибай говяжий охлажденный, 320г",
+                "promo_price": null,
+                "brand": "МИРАТОРГ",
+                "old_price": null
+            },
+            {
+                "article": "575410",
+                "title": "Мякоть боковой части бедра говяжья Заречное",
+                "promo_price": null,
+                "brand": "ЗАРЕЧНОЕ",
+                "old_price": null
+            },
+            {
+                "article": "118364",
+                "title": "Говядина духовая Эколь Халяль охлажденная, 400г",
+                "promo_price": null,
+                "brand": "ЭКОЛЬ",
+                "old_price": null
+            },
+            {
+                "article": "127761",
+                "title": "Край толстый говяжий Gran Ana Paula 1/2 зерновой откорм Уругвай охлажденный",
+                "promo_price": null,
+                "brand": "GRAN ANA PAULA",
+                "old_price": null
+            },
+            {
+                "article": "575416",
+                "title": "Грудинка говяжья Заречное без кости охлажденная, ~1.35кг",
+                "promo_price": null,
+                "brand": "ЗАРЕЧНОЕ",
+                "old_price": null
+            },
+            {
+                "article": "135848",
+                "title": "Стейк Мираторг Matured Beef Топ Блейд Skin охлажденный, 450г",
+                "promo_price": null,
+                "brand": "МИРАТОРГ",
+                "old_price": null
+            },
+            {
+                "article": "565627",
+                "title": "Ребра говяжьи Заречное охлажденные, ~1.9кг",
+                "promo_price": null,
+                "brand": "ЗАРЕЧНОЕ",
+                "old_price": null
+            },
+            {
+                "article": "521166",
+                "title": "Мякоть бедра Мираторг говяжья охлажденная, ~600г",
+                "promo_price": null,
+                "brand": "МИРАТОРГ",
+                "old_price": null
+            },
+            {
+                "article": "575403",
+                "title": "Говядина Заречное наружная часть бедра охлажденная, ~800г",
+                "promo_price": null,
+                "brand": "ЗАРЕЧНОЕ",
+                "old_price": null
+            },
+            {
+                "article": "104455",
+                "title": "Вырезка говяжья Эколь Халяль охлажденная, ~1кг",
+                "promo_price": null,
+                "brand": "ЭКОЛЬ",
+                "old_price": null
+            },
+            {
+                "article": "95973",
+                "title": "Стейк Мираторг Black Angus Томагавк из говядины охлажденный",
+                "promo_price": null,
+                "brand": "МИРАТОРГ",
+                "old_price": null
+            },
+            {
+                "article": "207139",
+                "title": "Стейк Мираторг баффало Black Angus охлажденный, 300г",
+                "promo_price": null,
+                "brand": "МИРАТОРГ",
+                "old_price": null
+            },
+            {
+                "article": "131356",
+                "title": "Тазобедренная часть говяжья Вахавяк Плюс без кости охлажденная, ~4кг",
+                "promo_price": null,
+                "brand": "ВАХАВЯК ПЛЮС",
+                "old_price": null
+            },
+            {
+                "article": "658363",
+                "title": "Стейк Мираторг Prime Рибай из мраморной говядины охлажденный, 390г",
+                "promo_price": null,
+                "brand": "МИРАТОРГ",
+                "old_price": null
+            },
+            {
+                "article": "667702",
+                "title": "Мякоть лопатки Мираторг говяжья охлажденная, 800г",
+                "promo_price": null,
+                "brand": "МИРАТОРГ",
+                "old_price": null
+            }
+        ],
+        [
+            {
+                "article": "521168",
+                "title": "Ростбиф говяжий Мираторг охлажденный, ~900г",
+                "promo_price": null,
+                "brand": "МИРАТОРГ",
+                "old_price": null
+            },
+            {
+                "article": "89222",
+                "title": "Голяшка Мираторг говяжья без кости охлажденная",
+                "promo_price": null,
+                "brand": "МИРАТОРГ",
+                "old_price": null
+            },
+            {
+                "article": "518059",
+                "title": "Вырезка Мираторг говяжья из лопатки охлажденная",
+                "promo_price": null,
+                "brand": "МИРАТОРГ",
+                "old_price": null
+            },
+            {
+                "article": "575411",
+                "title": "Мякоть шеи говяжья Заречное охлажденная, ~1кг",
+                "promo_price": null,
+                "brand": "ЗАРЕЧНОЕ",
+                "old_price": null
+            },
+            {
+                "article": "235156",
+                "title": "Мякоть говядины Мясо есть! Халяль охлажденная, 600г",
+                "promo_price": null,
+                "brand": "МЯСО ЕСТЬ!",
+                "old_price": null
+            },
+            {
+                "article": "214309",
+                "title": "Рибай Мираторг Matured зачищенный охлажденный, ~5.8кг",
+                "promo_price": null,
+                "brand": "МИРАТОРГ",
+                "old_price": null
+            },
+            {
+                "article": "510350",
+                "title": "Передняя часть лопатки Заречное говяжья охлажденная, ~680г",
+                "promo_price": null,
+                "brand": "ЗАРЕЧНОЕ",
+                "old_price": null
+            },
+            {
+                "article": "530547",
+                "title": "Вырезка говяжья Мираторг Prime охлажденная, ~2.5кг",
+                "promo_price": null,
+                "brand": "МИРАТОРГ",
+                "old_price": null
+            },
+            {
+                "article": "521157",
+                "title": "Мускул глазной Мираторг говяжий",
+                "promo_price": null,
+                "brand": "МИРАТОРГ",
+                "old_price": null
+            },
+            {
+                "article": "662852",
+                "title": "Стейк Мираторг Минутка говяжий охлажденный, 190г",
+                "promo_price": null,
+                "brand": "МИРАТОРГ",
+                "old_price": null
+            },
+            {
+                "article": "662246",
+                "title": "Стейк Мираторг Рибай скин из говядины охлажденный, 500г",
+                "promo_price": null,
+                "brand": "МИРАТОРГ",
+                "old_price": null
+            },
+            {
+                "article": "575398",
+                "title": "Мякоть лопатки говяжья Заречное охлажденная, ~950г",
+                "promo_price": null,
+                "brand": "ЗАРЕЧНОЕ",
+                "old_price": null
+            },
+            {
+                "article": "236534",
+                "title": "Голяшка говяжья Мираторг фермерский бычок без кости охлажденная, ~2.3кг",
+                "promo_price": null,
+                "brand": "МИРАТОРГ",
+                "old_price": null
+            },
+            {
+                "article": "135846",
+                "title": "Стейк Мираторг Matured Beef Стриплойн охлажденный, 250г",
+                "promo_price": null,
+                "brand": "МИРАТОРГ",
+                "old_price": null
+            },
+            {
+                "article": "637421",
+                "title": "Стейк Мираторг Чак Ролл говяжий охлажденный, 570г",
+                "promo_price": null,
+                "brand": "МИРАТОРГ",
+                "old_price": null
+            },
+            {
+                "article": "658994",
+                "title": "Стейк Мираторг Рибай говяжий охлажденный, 320г",
+                "promo_price": null,
+                "brand": "МИРАТОРГ",
+                "old_price": null
+            },
+            {
+                "article": "575410",
+                "title": "Мякоть боковой части бедра говяжья Заречное",
+                "promo_price": null,
+                "brand": "ЗАРЕЧНОЕ",
+                "old_price": null
+            },
+            {
+                "article": "118364",
+                "title": "Говядина духовая Эколь Халяль охлажденная, 400г",
+                "promo_price": null,
+                "brand": "ЭКОЛЬ",
+                "old_price": null
+            },
+            {
+                "article": "127761",
+                "title": "Край толстый говяжий Gran Ana Paula 1/2 зерновой откорм Уругвай охлажденный",
+                "promo_price": null,
+                "brand": "GRAN ANA PAULA",
+                "old_price": null
+            },
+            {
+                "article": "575416",
+                "title": "Грудинка говяжья Заречное без кости охлажденная, ~1.35кг",
+                "promo_price": null,
+                "brand": "ЗАРЕЧНОЕ",
+                "old_price": null
+            },
+            {
+                "article": "135848",
+                "title": "Стейк Мираторг Matured Beef Топ Блейд Skin охлажденный, 450г",
+                "promo_price": null,
+                "brand": "МИРАТОРГ",
+                "old_price": null
+            },
+            {
+                "article": "565627",
+                "title": "Ребра говяжьи Заречное охлажденные, ~1.9кг",
+                "promo_price": null,
+                "brand": "ЗАРЕЧНОЕ",
+                "old_price": null
+            },
+            {
+                "article": "521166",
+                "title": "Мякоть бедра Мираторг говяжья охлажденная, ~600г",
+                "promo_price": null,
+                "brand": "МИРАТОРГ",
+                "old_price": null
+            },
+            {
+                "article": "575403",
+                "title": "Говядина Заречное наружная часть бедра охлажденная, ~800г",
+                "promo_price": null,
+                "brand": "ЗАРЕЧНОЕ",
+                "old_price": null
+            },
+            {
+                "article": "104455",
+                "title": "Вырезка говяжья Эколь Халяль охлажденная, ~1кг",
+                "promo_price": null,
+                "brand": "ЭКОЛЬ",
+                "old_price": null
+            },
+            {
+                "article": "95973",
+                "title": "Стейк Мираторг Black Angus Томагавк из говядины охлажденный",
+                "promo_price": null,
+                "brand": "МИРАТОРГ",
+                "old_price": null
+            },
+            {
+                "article": "207139",
+                "title": "Стейк Мираторг баффало Black Angus охлажденный, 300г",
+                "promo_price": null,
+                "brand": "МИРАТОРГ",
+                "old_price": null
+            },
+            {
+                "article": "131356",
+                "title": "Тазобедренная часть говяжья Вахавяк Плюс без кости охлажденная, ~4кг",
+                "promo_price": null,
+                "brand": "ВАХАВЯК ПЛЮС",
+                "old_price": null
+            },
+            {
+                "article": "658363",
+                "title": "Стейк Мираторг Prime Рибай из мраморной говядины охлажденный, 390г",
+                "promo_price": null,
+                "brand": "МИРАТОРГ",
+                "old_price": null
+            },
+            {
+                "article": "667702",
+                "title": "Мякоть лопатки Мираторг говяжья охлажденная, 800г",
+                "promo_price": null,
+                "brand": "МИРАТОРГ",
+                "old_price": null
+            }
+        ],
+        [
+            {
+                "article": "521168",
+                "title": "Ростбиф говяжий Мираторг охлажденный, ~900г",
+                "promo_price": null,
+                "brand": "МИРАТОРГ",
+                "old_price": null
+            },
+            {
+                "article": "89222",
+                "title": "Голяшка Мираторг говяжья без кости охлажденная",
+                "promo_price": null,
+                "brand": "МИРАТОРГ",
+                "old_price": null
+            },
+            {
+                "article": "518059",
+                "title": "Вырезка Мираторг говяжья из лопатки охлажденная",
+                "promo_price": null,
+                "brand": "МИРАТОРГ",
+                "old_price": null
+            },
+            {
+                "article": "575411",
+                "title": "Мякоть шеи говяжья Заречное охлажденная, ~1кг",
+                "promo_price": null,
+                "brand": "ЗАРЕЧНОЕ",
+                "old_price": null
+            },
+            {
+                "article": "235156",
+                "title": "Мякоть говядины Мясо есть! Халяль охлажденная, 600г",
+                "promo_price": null,
+                "brand": "МЯСО ЕСТЬ!",
+                "old_price": null
+            },
+            {
+                "article": "214309",
+                "title": "Рибай Мираторг Matured зачищенный охлажденный, ~5.8кг",
+                "promo_price": null,
+                "brand": "МИРАТОРГ",
+                "old_price": null
+            },
+            {
+                "article": "510350",
+                "title": "Передняя часть лопатки Заречное говяжья охлажденная, ~680г",
+                "promo_price": null,
+                "brand": "ЗАРЕЧНОЕ",
+                "old_price": null
+            },
+            {
+                "article": "530547",
+                "title": "Вырезка говяжья Мираторг Prime охлажденная, ~2.5кг",
+                "promo_price": null,
+                "brand": "МИРАТОРГ",
+                "old_price": null
+            },
+            {
+                "article": "521157",
+                "title": "Мускул глазной Мираторг говяжий",
+                "promo_price": null,
+                "brand": "МИРАТОРГ",
+                "old_price": null
+            },
+            {
+                "article": "662852",
+                "title": "Стейк Мираторг Минутка говяжий охлажденный, 190г",
+                "promo_price": null,
+                "brand": "МИРАТОРГ",
+                "old_price": null
+            },
+            {
+                "article": "662246",
+                "title": "Стейк Мираторг Рибай скин из говядины охлажденный, 500г",
+                "promo_price": null,
+                "brand": "МИРАТОРГ",
+                "old_price": null
+            },
+            {
+                "article": "575398",
+                "title": "Мякоть лопатки говяжья Заречное охлажденная, ~950г",
+                "promo_price": null,
+                "brand": "ЗАРЕЧНОЕ",
+                "old_price": null
+            },
+            {
+                "article": "236534",
+                "title": "Голяшка говяжья Мираторг фермерский бычок без кости охлажденная, ~2.3кг",
+                "promo_price": null,
+                "brand": "МИРАТОРГ",
+                "old_price": null
+            },
+            {
+                "article": "135846",
+                "title": "Стейк Мираторг Matured Beef Стриплойн охлажденный, 250г",
+                "promo_price": null,
+                "brand": "МИРАТОРГ",
+                "old_price": null
+            },
+            {
+                "article": "637421",
+                "title": "Стейк Мираторг Чак Ролл говяжий охлажденный, 570г",
+                "promo_price": null,
+                "brand": "МИРАТОРГ",
+                "old_price": null
+            },
+            {
+                "article": "658994",
+                "title": "Стейк Мираторг Рибай говяжий охлажденный, 320г",
+                "promo_price": null,
+                "brand": "МИРАТОРГ",
+                "old_price": null
+            },
+            {
+                "article": "575410",
+                "title": "Мякоть боковой части бедра говяжья Заречное",
+                "promo_price": null,
+                "brand": "ЗАРЕЧНОЕ",
+                "old_price": null
+            },
+            {
+                "article": "118364",
+                "title": "Говядина духовая Эколь Халяль охлажденная, 400г",
+                "promo_price": null,
+                "brand": "ЭКОЛЬ",
+                "old_price": null
+            },
+            {
+                "article": "127761",
+                "title": "Край толстый говяжий Gran Ana Paula 1/2 зерновой откорм Уругвай охлажденный",
+                "promo_price": null,
+                "brand": "GRAN ANA PAULA",
+                "old_price": null
+            },
+            {
+                "article": "575416",
+                "title": "Грудинка говяжья Заречное без кости охлажденная, ~1.35кг",
+                "promo_price": null,
+                "brand": "ЗАРЕЧНОЕ",
+                "old_price": null
+            },
+            {
+                "article": "135848",
+                "title": "Стейк Мираторг Matured Beef Топ Блейд Skin охлажденный, 450г",
+                "promo_price": null,
+                "brand": "МИРАТОРГ",
+                "old_price": null
+            },
+            {
+                "article": "565627",
+                "title": "Ребра говяжьи Заречное охлажденные, ~1.9кг",
+                "promo_price": null,
+                "brand": "ЗАРЕЧНОЕ",
+                "old_price": null
+            },
+            {
+                "article": "521166",
+                "title": "Мякоть бедра Мираторг говяжья охлажденная, ~600г",
+                "promo_price": null,
+                "brand": "МИРАТОРГ",
+                "old_price": null
+            },
+            {
+                "article": "575403",
+                "title": "Говядина Заречное наружная часть бедра охлажденная, ~800г",
+                "promo_price": null,
+                "brand": "ЗАРЕЧНОЕ",
+                "old_price": null
+            },
+            {
+                "article": "104455",
+                "title": "Вырезка говяжья Эколь Халяль охлажденная, ~1кг",
+                "promo_price": null,
+                "brand": "ЭКОЛЬ",
+                "old_price": null
+            },
+            {
+                "article": "95973",
+                "title": "Стейк Мираторг Black Angus Томагавк из говядины охлажденный",
+                "promo_price": null,
+                "brand": "МИРАТОРГ",
+                "old_price": null
+            },
+            {
+                "article": "207139",
+                "title": "Стейк Мираторг баффало Black Angus охлажденный, 300г",
+                "promo_price": null,
+                "brand": "МИРАТОРГ",
+                "old_price": null
+            },
+            {
+                "article": "131356",
+                "title": "Тазобедренная часть говяжья Вахавяк Плюс без кости охлажденная, ~4кг",
+                "promo_price": null,
+                "brand": "ВАХАВЯК ПЛЮС",
+                "old_price": null
+            },
+            {
+                "article": "658363",
+                "title": "Стейк Мираторг Prime Рибай из мраморной говядины охлажденный, 390г",
+                "promo_price": null,
+                "brand": "МИРАТОРГ",
+                "old_price": null
+            },
+            {
+                "article": "667702",
+                "title": "Мякоть лопатки Мираторг говяжья охлажденная, 800г",
+                "promo_price": null,
+                "brand": "МИРАТОРГ",
+                "old_price": null
+            }
+        ],
+        [
+            {
+                "article": "521168",
+                "title": "Ростбиф говяжий Мираторг охлажденный, ~900г",
+                "promo_price": null,
+                "brand": "МИРАТОРГ",
+                "old_price": null
+            },
+            {
+                "article": "89222",
+                "title": "Голяшка Мираторг говяжья без кости охлажденная",
+                "promo_price": null,
+                "brand": "МИРАТОРГ",
+                "old_price": null
+            },
+            {
+                "article": "518059",
+                "title": "Вырезка Мираторг говяжья из лопатки охлажденная",
+                "promo_price": null,
+                "brand": "МИРАТОРГ",
+                "old_price": null
+            },
+            {
+                "article": "575411",
+                "title": "Мякоть шеи говяжья Заречное охлажденная, ~1кг",
+                "promo_price": null,
+                "brand": "ЗАРЕЧНОЕ",
+                "old_price": null
+            },
+            {
+                "article": "235156",
+                "title": "Мякоть говядины Мясо есть! Халяль охлажденная, 600г",
+                "promo_price": null,
+                "brand": "МЯСО ЕСТЬ!",
+                "old_price": null
+            },
+            {
+                "article": "214309",
+                "title": "Рибай Мираторг Matured зачищенный охлажденный, ~5.8кг",
+                "promo_price": null,
+                "brand": "МИРАТОРГ",
+                "old_price": null
+            },
+            {
+                "article": "510350",
+                "title": "Передняя часть лопатки Заречное говяжья охлажденная, ~680г",
+                "promo_price": null,
+                "brand": "ЗАРЕЧНОЕ",
+                "old_price": null
+            },
+            {
+                "article": "530547",
+                "title": "Вырезка говяжья Мираторг Prime охлажденная, ~2.5кг",
+                "promo_price": null,
+                "brand": "МИРАТОРГ",
+                "old_price": null
+            },
+            {
+                "article": "521157",
+                "title": "Мускул глазной Мираторг говяжий",
+                "promo_price": null,
+                "brand": "МИРАТОРГ",
+                "old_price": null
+            },
+            {
+                "article": "662852",
+                "title": "Стейк Мираторг Минутка говяжий охлажденный, 190г",
+                "promo_price": null,
+                "brand": "МИРАТОРГ",
+                "old_price": null
+            },
+            {
+                "article": "662246",
+                "title": "Стейк Мираторг Рибай скин из говядины охлажденный, 500г",
+                "promo_price": null,
+                "brand": "МИРАТОРГ",
+                "old_price": null
+            },
+            {
+                "article": "575398",
+                "title": "Мякоть лопатки говяжья Заречное охлажденная, ~950г",
+                "promo_price": null,
+                "brand": "ЗАРЕЧНОЕ",
+                "old_price": null
+            },
+            {
+                "article": "236534",
+                "title": "Голяшка говяжья Мираторг фермерский бычок без кости охлажденная, ~2.3кг",
+                "promo_price": null,
+                "brand": "МИРАТОРГ",
+                "old_price": null
+            },
+            {
+                "article": "135846",
+                "title": "Стейк Мираторг Matured Beef Стриплойн охлажденный, 250г",
+                "promo_price": null,
+                "brand": "МИРАТОРГ",
+                "old_price": null
+            },
+            {
+                "article": "637421",
+                "title": "Стейк Мираторг Чак Ролл говяжий охлажденный, 570г",
+                "promo_price": null,
+                "brand": "МИРАТОРГ",
+                "old_price": null
+            },
+            {
+                "article": "658994",
+                "title": "Стейк Мираторг Рибай говяжий охлажденный, 320г",
+                "promo_price": null,
+                "brand": "МИРАТОРГ",
+                "old_price": null
+            },
+            {
+                "article": "575410",
+                "title": "Мякоть боковой части бедра говяжья Заречное",
+                "promo_price": null,
+                "brand": "ЗАРЕЧНОЕ",
+                "old_price": null
+            },
+            {
+                "article": "118364",
+                "title": "Говядина духовая Эколь Халяль охлажденная, 400г",
+                "promo_price": null,
+                "brand": "ЭКОЛЬ",
+                "old_price": null
+            },
+            {
+                "article": "127761",
+                "title": "Край толстый говяжий Gran Ana Paula 1/2 зерновой откорм Уругвай охлажденный",
+                "promo_price": null,
+                "brand": "GRAN ANA PAULA",
+                "old_price": null
+            },
+            {
+                "article": "575416",
+                "title": "Грудинка говяжья Заречное без кости охлажденная, ~1.35кг",
+                "promo_price": null,
+                "brand": "ЗАРЕЧНОЕ",
+                "old_price": null
+            },
+            {
+                "article": "135848",
+                "title": "Стейк Мираторг Matured Beef Топ Блейд Skin охлажденный, 450г",
+                "promo_price": null,
+                "brand": "МИРАТОРГ",
+                "old_price": null
+            },
+            {
+                "article": "565627",
+                "title": "Ребра говяжьи Заречное охлажденные, ~1.9кг",
+                "promo_price": null,
+                "brand": "ЗАРЕЧНОЕ",
+                "old_price": null
+            },
+            {
+                "article": "521166",
+                "title": "Мякоть бедра Мираторг говяжья охлажденная, ~600г",
+                "promo_price": null,
+                "brand": "МИРАТОРГ",
+                "old_price": null
+            },
+            {
+                "article": "575403",
+                "title": "Говядина Заречное наружная часть бедра охлажденная, ~800г",
+                "promo_price": null,
+                "brand": "ЗАРЕЧНОЕ",
+                "old_price": null
+            },
+            {
+                "article": "104455",
+                "title": "Вырезка говяжья Эколь Халяль охлажденная, ~1кг",
+                "promo_price": null,
+                "brand": "ЭКОЛЬ",
+                "old_price": null
+            },
+            {
+                "article": "95973",
+                "title": "Стейк Мираторг Black Angus Томагавк из говядины охлажденный",
+                "promo_price": null,
+                "brand": "МИРАТОРГ",
+                "old_price": null
+            },
+            {
+                "article": "207139",
+                "title": "Стейк Мираторг баффало Black Angus охлажденный, 300г",
+                "promo_price": null,
+                "brand": "МИРАТОРГ",
+                "old_price": null
+            },
+            {
+                "article": "131356",
+                "title": "Тазобедренная часть говяжья Вахавяк Плюс без кости охлажденная, ~4кг",
+                "promo_price": null,
+                "brand": "ВАХАВЯК ПЛЮС",
+                "old_price": null
+            },
+            {
+                "article": "658363",
+                "title": "Стейк Мираторг Prime Рибай из мраморной говядины охлажденный, 390г",
+                "promo_price": null,
+                "brand": "МИРАТОРГ",
+                "old_price": null
+            },
+            {
+                "article": "667702",
+                "title": "Мякоть лопатки Мираторг говяжья охлажденная, 800г",
+                "promo_price": null,
+                "brand": "МИРАТОРГ",
+                "old_price": null
+            }
+        ],
+        [
+            {
+                "article": "521168",
+                "title": "Ростбиф говяжий Мираторг охлажденный, ~900г",
+                "promo_price": null,
+                "brand": "МИРАТОРГ",
+                "old_price": null
+            },
+            {
+                "article": "89222",
+                "title": "Голяшка Мираторг говяжья без кости охлажденная",
+                "promo_price": null,
+                "brand": "МИРАТОРГ",
+                "old_price": null
+            },
+            {
+                "article": "518059",
+                "title": "Вырезка Мираторг говяжья из лопатки охлажденная",
+                "promo_price": null,
+                "brand": "МИРАТОРГ",
+                "old_price": null
+            },
+            {
+                "article": "575411",
+                "title": "Мякоть шеи говяжья Заречное охлажденная, ~1кг",
+                "promo_price": null,
+                "brand": "ЗАРЕЧНОЕ",
+                "old_price": null
+            },
+            {
+                "article": "235156",
+                "title": "Мякоть говядины Мясо есть! Халяль охлажденная, 600г",
+                "promo_price": null,
+                "brand": "МЯСО ЕСТЬ!",
+                "old_price": null
+            },
+            {
+                "article": "214309",
+                "title": "Рибай Мираторг Matured зачищенный охлажденный, ~5.8кг",
+                "promo_price": null,
+                "brand": "МИРАТОРГ",
+                "old_price": null
+            },
+            {
+                "article": "510350",
+                "title": "Передняя часть лопатки Заречное говяжья охлажденная, ~680г",
+                "promo_price": null,
+                "brand": "ЗАРЕЧНОЕ",
+                "old_price": null
+            },
+            {
+                "article": "530547",
+                "title": "Вырезка говяжья Мираторг Prime охлажденная, ~2.5кг",
+                "promo_price": null,
+                "brand": "МИРАТОРГ",
+                "old_price": null
+            },
+            {
+                "article": "521157",
+                "title": "Мускул глазной Мираторг говяжий",
+                "promo_price": null,
+                "brand": "МИРАТОРГ",
+                "old_price": null
+            },
+            {
+                "article": "662852",
+                "title": "Стейк Мираторг Минутка говяжий охлажденный, 190г",
+                "promo_price": null,
+                "brand": "МИРАТОРГ",
+                "old_price": null
+            },
+            {
+                "article": "662246",
+                "title": "Стейк Мираторг Рибай скин из говядины охлажденный, 500г",
+                "promo_price": null,
+                "brand": "МИРАТОРГ",
+                "old_price": null
+            },
+            {
+                "article": "575398",
+                "title": "Мякоть лопатки говяжья Заречное охлажденная, ~950г",
+                "promo_price": null,
+                "brand": "ЗАРЕЧНОЕ",
+                "old_price": null
+            },
+            {
+                "article": "236534",
+                "title": "Голяшка говяжья Мираторг фермерский бычок без кости охлажденная, ~2.3кг",
+                "promo_price": null,
+                "brand": "МИРАТОРГ",
+                "old_price": null
+            },
+            {
+                "article": "135846",
+                "title": "Стейк Мираторг Matured Beef Стриплойн охлажденный, 250г",
+                "promo_price": null,
+                "brand": "МИРАТОРГ",
+                "old_price": null
+            },
+            {
+                "article": "637421",
+                "title": "Стейк Мираторг Чак Ролл говяжий охлажденный, 570г",
+                "promo_price": null,
+                "brand": "МИРАТОРГ",
+                "old_price": null
+            },
+            {
+                "article": "658994",
+                "title": "Стейк Мираторг Рибай говяжий охлажденный, 320г",
+                "promo_price": null,
+                "brand": "МИРАТОРГ",
+                "old_price": null
+            },
+            {
+                "article": "575410",
+                "title": "Мякоть боковой части бедра говяжья Заречное",
+                "promo_price": null,
+                "brand": "ЗАРЕЧНОЕ",
+                "old_price": null
+            },
+            {
+                "article": "118364",
+                "title": "Говядина духовая Эколь Халяль охлажденная, 400г",
+                "promo_price": null,
+                "brand": "ЭКОЛЬ",
+                "old_price": null
+            },
+            {
+                "article": "127761",
+                "title": "Край толстый говяжий Gran Ana Paula 1/2 зерновой откорм Уругвай охлажденный",
+                "promo_price": null,
+                "brand": "GRAN ANA PAULA",
+                "old_price": null
+            },
+            {
+                "article": "575416",
+                "title": "Грудинка говяжья Заречное без кости охлажденная, ~1.35кг",
+                "promo_price": null,
+                "brand": "ЗАРЕЧНОЕ",
+                "old_price": null
+            },
+            {
+                "article": "135848",
+                "title": "Стейк Мираторг Matured Beef Топ Блейд Skin охлажденный, 450г",
+                "promo_price": null,
+                "brand": "МИРАТОРГ",
+                "old_price": null
+            },
+            {
+                "article": "565627",
+                "title": "Ребра говяжьи Заречное охлажденные, ~1.9кг",
+                "promo_price": null,
+                "brand": "ЗАРЕЧНОЕ",
+                "old_price": null
+            },
+            {
+                "article": "521166",
+                "title": "Мякоть бедра Мираторг говяжья охлажденная, ~600г",
+                "promo_price": null,
+                "brand": "МИРАТОРГ",
+                "old_price": null
+            },
+            {
+                "article": "575403",
+                "title": "Говядина Заречное наружная часть бедра охлажденная, ~800г",
+                "promo_price": null,
+                "brand": "ЗАРЕЧНОЕ",
+                "old_price": null
+            },
+            {
+                "article": "104455",
+                "title": "Вырезка говяжья Эколь Халяль охлажденная, ~1кг",
+                "promo_price": null,
+                "brand": "ЭКОЛЬ",
+                "old_price": null
+            },
+            {
+                "article": "95973",
+                "title": "Стейк Мираторг Black Angus Томагавк из говядины охлажденный",
+                "promo_price": null,
+                "brand": "МИРАТОРГ",
+                "old_price": null
+            },
+            {
+                "article": "207139",
+                "title": "Стейк Мираторг баффало Black Angus охлажденный, 300г",
+                "promo_price": null,
+                "brand": "МИРАТОРГ",
+                "old_price": null
+            },
+            {
+                "article": "131356",
+                "title": "Тазобедренная часть говяжья Вахавяк Плюс без кости охлажденная, ~4кг",
+                "promo_price": null,
+                "brand": "ВАХАВЯК ПЛЮС",
+                "old_price": null
+            },
+            {
+                "article": "658363",
+                "title": "Стейк Мираторг Prime Рибай из мраморной говядины охлажденный, 390г",
+                "promo_price": null,
+                "brand": "МИРАТОРГ",
+                "old_price": null
+            },
+            {
+                "article": "667702",
+                "title": "Мякоть лопатки Мираторг говяжья охлажденная, 800г",
+                "promo_price": null,
+                "brand": "МИРАТОРГ",
+                "old_price": null
+            }
+        ]
+    ]
+}
